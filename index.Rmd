@@ -143,16 +143,6 @@ All Canada's barrier and connectivity information in one place -- easily and ope
   + Brings groups together and centralizes efforts
   + Led to significant improvements to fish passage and connectivity
 
-## Penobscot River Restoration (Maine)
-
-- Partnership between government, Indigenous groups, NGOs, and industry
-- Two dam removals and one nature-like fishway
-- 2018: **<span style="color: #de3c26;">2.8 million+</span>** river herring returned
-
-<center>
-![bypass](./img/bypass.jpg){height=450px}
-</center>
-
 ## Importance of Collaboration and Engagement
 
 - Potential uses of CABD extend beyond CWF's needs
@@ -250,21 +240,6 @@ Five main steps:
 </div>
 
 </div>
-
-## Attribute mapping
-
-1. Aggregate attributes from existing spatial sources
-2. Identification of non-spatial data sources (search engines)
-
-<center>
-**<span style="color: #de3c26;">100+ data sources reviewed to date</span>**
-</center>
-
-&nbsp;
-
-<center>
-![attributes](./img/attributes.png){height=300px} ![spreadsheet](./img/spreadsheet.png){height=300px}
-</center>
 
 ## CABD v1.0
 
