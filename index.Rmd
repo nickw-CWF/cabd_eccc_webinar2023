@@ -1,0 +1,448 @@
+---
+title:
+author:
+date:
+output:
+  revealjs::revealjs_presentation:
+    css: style.css
+    incremental: false
+    theme: night
+    highlight: tango
+    transition: none
+    center: true
+---
+
+# {data-background-color="#0a4f58"}
+
+<h2 style="color: #de3c26;">
+Canadian Aquatic Barriers Database
+</h2>
+
+<h3>
+A tool to support freshwater connectivity restoration and policy
+</h3>
+
+<h5>
+Nick Mazany-Wright
+</h5>
+
+<h5>
+April 26, 2023
+</h5>
+
+&nbsp;
+&nbsp;
+
+<center>
+Session 3: A Survey of Select Canadian Tributaries and Threats to Fish and Fish Habitat
+</center>
+
+<center>
+Baseline Coastal Habitat Survey for the Canadian Great Lakes
+</center>
+
+&nbsp;
+&nbsp;
+
+<div class="container">
+<div class="col">
+``` {r, echo=FALSE, out.width="50%", fig.align="left"}
+
+knitr::include_graphics("./img/white-cwf-logo-en.svg")
+
+#AWC3
+
+```
+</div>
+
+<div class="col" style="justify-self: end; align-content: end;">
+<span style="font-family: Bebas Neue;"></span>
+</div>
+
+</div>
+
+# Canadian Wildlife Federation
+
+## Who We Are
+
+- One of Canada's largest environmental NGOs
+- Originated in 1962 from fish and wildlife conservation movement
+- "To conserve and inspire the conservation of Canada's wildlife and habitats for the use and enjoyment for all"
+- Freshwater, marine, and terrestrial programs
+
+&nbsp;
+
+<center>
+![cwf1](./img/cwf1.png){height=200px} ![cwf2](./img/cwf2.png){height=200px} ![cwf3](./img/cwf3.png){height=200px}
+</center>
+
+## CWF's Approach to Conservation
+
+1. Instill conservation ethic in Canadians
+2. Engage Canadians in conservation actions
+3. Fill gaps in our scientific understanding of species and threats
+4. Carry out species and habitat conservation projects
+5. Advocate for strong laws, policies, and programs to conserve wildlife and habitat
+
+&nbsp;
+
+<center>
+![research2](./img/research2.png){height=175px} ![education](./img/education.png){height=175px} ![salmon](./img/salmon.png){height=175px} ![research3](./img/research3.png){height=175px}
+</center>
+
+## National Fish Passage Program
+
+Increased freshwater focus on connectivity and fish passage:
+
+- Chinook salmon research in Upper Yukon River
+- American eel research and advocacy
+- Fish passage advocacy and barrier campaigns
+- Watershed Connectivity Restoration Planning framework and barrier remediation in BC, AB, PEI, and NS
+- Spatial tools to assess watershed connectivity and prioritize barriers for remediation
+- **<span style="color: #de3c26;">Development of the Canadian Aquatic Barriers Database (CABD)</span>**
+
+<center>
+![fish_ladder](./img/fish_ladder.png){height=160px} ![american_eel](./img/american_eel.png){height=160px} ![bridge](./img/bridge.png){height=160px} ![salmon](./img/salmon.png){height=160px}
+</center>
+
+# Canadian Aquatic Barriers Database (CABD)
+
+## What is the conservation issue?
+
+What we know:
+
+- Structures like dams, culverts, and dykes block the movement of fish (and other species) and energy/matter
+- Barriers to connectivity are extensive across Canada
+- Barriers removal needed to restore access to important habitat and ecosystem functions
+- Restoration projects are expensive
+
+<center>
+![dam](./img/dam.png){height=200px} ![culvert](./img/culvert.png){height=200px} ![levee](./img/levee.png){height=200px}
+</center>
+
+## What is the conservation issue?
+
+What we don't know:
+
+- How many barriers exist in Canada?
+- How much habitat is not accessible?
+- How do we identify the most important barriers to maximize benefits?
+
+**<span style="color: #de3c26;">We need comprehensive information to answer these questions</span>**
+
+## Canadian Aquatic Barriers Database (CABD)
+
+<center>
+**<span style="color: #de3c26;">Vision:</span>**
+</center>
+
+<center>
+All Canada's barrier and connectivity information in one place -- easily and openly accessible!
+</center>
+
+## Project Background
+
+- CABD = central pillar of tools to support CWF's fish passage program
+- Identify and prioritize barriers for restoration
+- Inspired TNC, NCC, and local/regional initiatives (e.g., Adopt a Stream, Fishwerks)
+
+<center>
+![barrier-removal](./img/barrier-removal.jpg)
+</center>
+
+## A Roadmap for Improving Connectivity
+
+- TNC's Northeast Aquatic Connectivity Assessment Project:
+  + A database as a partnership building tool
+  + Brings groups together and centralizes efforts
+  + Led to significant improvements to fish passage and connectivity
+
+## Penobscot River Restoration (Maine)
+
+- Partnership between government, Indigenous groups, NGOs, and industry
+- Two dam removals and one nature-like fishway
+- 2018: **<span style="color: #de3c26;">2.8 million+</span>** river herring returned
+
+<center>
+![bypass](./img/bypass.jpg){height=450px}
+</center>
+
+## Importance of Collaboration and Engagement
+
+- Potential uses of CABD extend beyond CWF's needs
+- Launched external engagement to get input on development
+- User interviews
+  + What type of work could the CABD support?
+  + What information would be useful?
+  + How would users like to access the data?
+- Working Group and Technical Advisory Committee
+
+&nbsp;
+
+<center>
+![AEP](./img/aep-logo.png){height=50px} ![WWF](./img/wwf-logo.png){height=50px} ![DFO](img/dfo-logo.jpg){height=50px} ![NWAI](./img/nwai-logo.jpg){height=50px} ![Carleton](./img/carleton-logo.png){height=50px}
+</center>
+
+<center>
+![CRI](./img/cri-logo.png){height=25px} ![TUC](./img/tuc-logo.png){height=50px} ![NRCan](./img/nrcan-logo.png){height=25px}
+![GLFC](./img/glfc-logo.png){height=50px} ![BC](./img/ubc-logo.png){height=50px}
+</center>
+
+<center>
+![NCC](./img/ncc-logo.png){height=50px} ![NSWA](./img/nswa-logo.png){height=50px} ![NAACC](./img/naacc-logo.jpg){height=50px}
+![NSSA](./img/nssa-logo.jpg){height=50px}
+![UBC](./img/ubc1-logo.png){height=50px}
+</center>
+
+## Data Gathering and Sharing
+
+- CABD relies on existing repositories
+  + Local in scale
+  + Single barrier types
+  + No standardization
+- CWF provides national coordination **<span style="color: #de3c26;">without</span>** duplicating effort
+- Establish **<span style="color: #de3c26;">reciprocal</span>** relationships
+  + Share data back to providers
+
+&nbsp;
+
+<center>
+![network](./img/network.png){height=200px} ![two-way](./img/two-way.png){height=200px}
+</center>
+
+## What will the CABD be used for?
+
+1. Habitat status assessments and reporting (watershed &rarr; national scales)
+2. Informing management and regulatory decisions
+3. Restoration planning and prioritization
+4. Research and monitoring
+5. Education and public outreach
+
+## CABD Components
+
+<div class="container">
+<div class="col">
+1. Hydrographic networks
+
+<center>
+![hydro1](./img/hydro1.png){height=150px}
+</center>
+</div>
+
+<div class="col">
+2. Barrier data
+
+<center>
+![barrier_points](./img/barrier_points.PNG){height=150px}
+</center>
+</div>
+
+<div class="col">
+3. Web map and tools
+
+<center>
+![interface](./img/interface.png){height=150px}
+</center>
+</div>
+
+</div>
+
+## Barrier Data
+
+<div class="container">
+<div class="col">
+- Standardized data structure through engagement
+- Current barrier types:
+  + Dams (includes some other structures for now)
+  + Waterfalls
+  + **<span style="color: #de3c26;">Fishways</span>** (inherited CANFISHPASS from the Cooke lab at Carleton University)
+- Next steps:
+  + Stream crossings (road, rail, trail)
+  + Lateral barriers (dykes/levees, embankments, etc.)
+  + Others?
+</div>
+
+<div class="col">
+<center>
+
+&nbsp;
+
+![layers](./img/layers.png)
+</center>
+</div>
+
+</div>
+
+## Barrier Data Processing
+
+<div class="container">
+<div class="col">
+Five main steps:
+
+1. Data source compilation
+2. De-duplication
+3. Spatial attribute mapping
+4. Geolocation (including snapping to hydro network)
+5. Non-spatial information collection
+</div>
+
+<div class="col">
+<center>
+![geolocate](./img/geolocate.png)
+</center>
+</div>
+
+</div>
+
+## Attribute mapping
+
+1. Aggregate attributes from existing spatial sources
+2. Identification of non-spatial data sources (search engines)
+
+<center>
+**<span style="color: #de3c26;">100+ data sources reviewed to date</span>**
+</center>
+
+&nbsp;
+
+<center>
+![attributes](./img/attributes.png){height=300px} ![spreadsheet](./img/spreadsheet.png){height=300px}
+</center>
+
+## CABD v1.0
+
+<center>
+Complete national coverage released September 2022
+</center>
+
+&nbsp;
+
+<span style = "font-size: 175%; font-family: Bebas Neue; padding-left: 105px;">Dams</span> <span style = "font-size: 175%; font-family: Bebas Neue; padding-left: 155px;">Waterfalls</span> <span style = "font-size: 175%; font-family: Bebas Neue; padding-left:125px;">Fishways</span>
+
+![dam](./img/dam.svg){height=300px} ![waterfall](./img/waterfall.svg){height=300px} ![fishway](./img/fishway.svg){height=300} 
+
+<span style = "font-size: 150%; font-family: Bebas Neue; color: #de3c26; padding-left: 95px;">36,799</span> <span style = "font-size: 150%; font-family: Bebas Neue; color: #de3c26; padding-left: 200px;">22,194</span> <span style = "font-size: 150%; font-family: Bebas Neue; color: #de3c26; padding-left:250px;">408</span>
+
+## CABD v1.0
+
+Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
+
+Phase 1 = compile, deduplicate, and standardize existing datasets
+
+Phase 2 = fill data gaps
+
+## CABD v1.0
+
+Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
+
+- Data gaps exist (structures and attributes)
+- But, most comprehensive and standardized datasets available nationally
+- Not a one-time effort &rarr; living datasets
+- CWF, partners, and practitioners across the country can help contribute data and updates
+
+## Demo!
+
+<center>
+<a href="https://cabd-git-restore-update-info-foundryspatial.vercel.app/" data-preview-link>aquaticbarriers.ca</a>
+</center>
+
+## Next Steps
+
+- Continue information gathering
+  + **<span style="color: #de3c26;">Phase 1:</span>** Compile existing datasets (including stream-crossings)
+  + **<span style="color: #de3c26;">Phase 2:</span>** Begin to fill data gaps (with input from citizen scientists!)
+- Expand features in the web tool
+- Develop additional tools (e.g., standardized barrier assessment protocols, mobile apps)
+
+## National Barrier Assessment Protocols
+
+**<span style="color: #de3c26;">Develop national, life-stage and species agnostic stream crossing assessment protocol to:</span>**
+
+1. Provide a protocol that can be applied across Canada, particularly where regional protocols don't exist
+2. Inform data structure for stream crossings in CABD
+
+<center>
+![assessment](./img/assessment.jpg)
+</center>
+
+## National Barrier Assessment Protocols
+
+- Hosted workshop Feb/Mar 2023
+- Learn, share, and promote collaboration and coordination
+
+<center>
+**<span style="color: #de3c26;">Outcome:</span>** form working group to finalize collaborative national protocols
+  
+<center>
+![assessment](./img/assessment.jpg)
+</center>
+
+## Connectivity Assessment and Reporting
+
+<div class="container">
+<div class="col">
+- DFO' status of fish and fish habitat reporting
+  + **<span style="color: #de3c26;">What is the state of fish habitat connectivity in Canada?</span>**
+  + DFO has recognized CABD as data source to assess connectivity
+- Hosted 'Advancing Approaches for Assessing Freshwater Connectivity in Canada' workshop with ECCC, DFO
+- CABD can help centralize, coordinate, and modernize reporting
+</div>
+
+<div class="col">
+<center>
+![DFO-report](./img/dfo-report.png)
+</center>
+</div>
+
+</div>
+
+## Connectivity Planning and Prioritization
+
+<div class="container">
+<div class="col">
+- Watershed Connectivity Restoration Planning framework
+- Collaborative planning of strategic barrier restoration
+- Applied in BC, AB, PEI, and NS
+- Guide document for connectivity planning in Canada
+- CABD supports watershed-scale planning work
+</div>
+
+<div class="col">
+<center>
+![WCRP-guide](./img/wcrp-guide.png)
+</center>
+</div>
+
+</div>
+
+## Supporting Policy and Management Decisions
+
+<div class="container">
+<div class="col">
+- CABD contributes to multilateral initiatives to improve policy and management for conservation and management of connectivity:
+  + Connectivity Working Group (Pathway to Canada Target 1)
+  + National Program for Ecological Corridors (PC)
+  + Freshwater connectivity indicator for protected areas in Canada
+- Open data source to inform regulatory decisions under federal and provincial acts (e.g., Fisheries Act)
+</div>
+
+<div class="col">
+<center>
+![CWG](./img/cwg.png)
+</center>
+</div>
+
+</div>
+
+# Thank you!
+
+<center>
+<h2>Questions?</h2>
+</center>
+<center>
+nickw@cwf-fcf.org
+</center>
+<center>
+*The Canadian Aquatic Barriers Database is a multi-year project that is supported partially by financial contributions from Fisheries and Oceans Canada and the RBC Foundation.*
+</center>
+
