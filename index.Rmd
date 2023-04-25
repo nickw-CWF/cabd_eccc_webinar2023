@@ -76,20 +76,6 @@ knitr::include_graphics("./img/white-cwf-logo-en.svg")
 ![cwf1](./img/cwf1.png){height=200px} ![cwf2](./img/cwf2.png){height=200px} ![cwf3](./img/cwf3.png){height=200px}
 </center>
 
-## CWF's Approach to Conservation
-
-1. Instill conservation ethic in Canadians
-2. Engage Canadians in conservation actions
-3. Fill gaps in our scientific understanding of species and threats
-4. Carry out species and habitat conservation projects
-5. Advocate for strong laws, policies, and programs to conserve wildlife and habitat
-
-&nbsp;
-
-<center>
-![research2](./img/research2.png){height=175px} ![education](./img/education.png){height=175px} ![salmon](./img/salmon.png){height=175px} ![research3](./img/research3.png){height=175px}
-</center>
-
 ## National Fish Passage Program
 
 Increased freshwater focus on connectivity and fish passage:
@@ -97,8 +83,8 @@ Increased freshwater focus on connectivity and fish passage:
 - Chinook salmon research in Upper Yukon River
 - American eel research and advocacy
 - Fish passage advocacy and barrier campaigns
-- Watershed Connectivity Restoration Planning framework and barrier remediation in BC, AB, PEI, and NS
-- Spatial tools to assess watershed connectivity and prioritize barriers for remediation
+- Watershed Connectivity Restoration Planning framework in BC, AB, PEI, and NS
+- Spatial tools to assess watershed connectivity and prioritize barriers for removal
 - **<span style="color: #de3c26;">Development of the Canadian Aquatic Barriers Database (CABD)</span>**
 
 <center>
@@ -113,7 +99,7 @@ What we know:
 
 - Structures like dams, culverts, and dykes block the movement of fish (and other species) and energy/matter
 - Barriers to connectivity are extensive across Canada
-- Barriers removal needed to restore access to important habitat and ecosystem functions
+- Barrier removal needed to restore access to important habitat and ecosystem functions
 - Restoration projects are expensive
 
 <center>
@@ -217,35 +203,6 @@ All Canada's barrier and connectivity information in one place -- easily and ope
 3. Restoration planning and prioritization
 4. Research and monitoring
 5. Education and public outreach
-
-## CABD Components
-
-<div class="container">
-<div class="col">
-1. Hydrographic networks
-
-<center>
-![hydro1](./img/hydro1.png){height=150px}
-</center>
-</div>
-
-<div class="col">
-2. Barrier data
-
-<center>
-![barrier_points](./img/barrier_points.PNG){height=150px}
-</center>
-</div>
-
-<div class="col">
-3. Web map and tools
-
-<center>
-![interface](./img/interface.png){height=150px}
-</center>
-</div>
-
-</div>
 
 ## Barrier Data
 
@@ -354,7 +311,7 @@ Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
 - Expand features in the web tool
 - Develop additional tools (e.g., standardized barrier assessment protocols, mobile apps)
 
-## National Barrier Assessment Protocols
+## National Stream Crossing Assessment Protocols
 
 **<span style="color: #de3c26;">Develop national, life-stage and species agnostic stream crossing assessment protocol to:</span>**
 
@@ -365,7 +322,7 @@ Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
 ![assessment](./img/assessment.jpg)
 </center>
 
-## National Barrier Assessment Protocols
+## National Stream Crossing Assessment Protocols
 
 - Hosted workshop Feb/Mar 2023
 - Learn, share, and promote collaboration and coordination
@@ -404,7 +361,7 @@ Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
 - Collaborative planning of strategic barrier restoration
 - Applied in BC, AB, PEI, and NS
 - Guide document for connectivity planning in Canada
-- CABD supports watershed-scale planning work
+- CABD supports variable-scale planning work
 </div>
 
 <div class="col">
@@ -419,7 +376,7 @@ Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
 
 <div class="container">
 <div class="col">
-- CABD contributes to multilateral initiatives to improve policy and management for conservation and management of connectivity:
+- CABD contributes to multilateral initiatives to improve policy and management for conservation and restoration of connectivity:
   + Connectivity Working Group (Pathway to Canada Target 1)
   + National Program for Ecological Corridors (PC)
   + Freshwater connectivity indicator for protected areas in Canada
