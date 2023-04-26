@@ -286,30 +286,7 @@ Are the CABD v1.0 datasets perfect? **<span style="color: #de3c26;">No!</span>**
 - Expand features in the web tool
 - Develop additional tools (e.g., standardized barrier assessment protocols, mobile apps)
 
-## National Stream Crossing Assessment Protocols
-
-**<span style="color: #de3c26;">Develop national, life-stage and species agnostic stream crossing assessment protocol to:</span>**
-
-1. Provide a protocol that can be applied across Canada, particularly where regional protocols don't exist
-2. Inform data structure for stream crossings in CABD
-
-<center>
-![assessment](./img/assessment.jpg)
-</center>
-
-## National Stream Crossing Assessment Protocols
-
-- Hosted workshop Feb/Mar 2023
-- Learn, share, and promote collaboration and coordination
-
-<center>
-**<span style="color: #de3c26;">Outcome:</span>** form working group to finalize collaborative national protocols
-  
-<center>
-![assessment](./img/assessment.jpg)
-</center>
-
-## Connectivity Assessment and Reporting
+## Habitat Connectivity Assessment and Reporting
 
 <div class="container">
 <div class="col">
